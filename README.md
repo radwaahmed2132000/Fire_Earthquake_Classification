@@ -1,5 +1,5 @@
-# Fire Flooded Classication
-It classifies images for flooded class or fire class 
+# Fire Earthquake Classication
+It classifies images for Earthquake class or fire class 
 ## Technologies 📚
 <br>
 <div align='center'>
