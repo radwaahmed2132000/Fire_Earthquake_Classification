@@ -3,7 +3,7 @@ It classifies images for flooded class or fire class
 ## Technologies 📚
 <br>
 <div align='center'>
-<img src="https://github.com/Iten-No-404/COVID-Vaccine-Stance-Detection/blob/main/pytorch.png"  width="25%">
+<img src="https://github.com/radwaahmed2132000/Fire_Flooded_Classification/blob/main/tensorflow.png"  width="25%">
 </div>
 <br>
 
@@ -12,6 +12,8 @@ It classifies images for flooded class or fire class
 - Removing trainable layers
 - Remove some complex layers which makes model overfitting
 - Add new Dense layer with activation function relu
+## Results
+- Accuray reaches 99.0 %
 
 
 
